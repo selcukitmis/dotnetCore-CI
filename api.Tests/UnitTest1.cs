@@ -9,8 +9,7 @@ namespace api.Tests
         [Owner("Selçuk")]
         public void TestMethod1()
         {
-            var result = 1;
-            Assert.AreEqual(1,2);
+            Assert.AreEqual(1,1);
         }
     }
 }
