@@ -1,0 +1,14 @@
+/Users/macintosh/dotnet-core/CI-Demo/api/bin/Debug/netcoreapp2.1/api.deps.json
+/Users/macintosh/dotnet-core/CI-Demo/api/bin/Debug/netcoreapp2.1/api.runtimeconfig.json
+/Users/macintosh/dotnet-core/CI-Demo/api/bin/Debug/netcoreapp2.1/api.runtimeconfig.dev.json
+/Users/macintosh/dotnet-core/CI-Demo/api/bin/Debug/netcoreapp2.1/api.dll
+/Users/macintosh/dotnet-core/CI-Demo/api/bin/Debug/netcoreapp2.1/api.pdb
+/Users/macintosh/dotnet-core/CI-Demo/api/obj/Debug/netcoreapp2.1/api.csprojAssemblyReference.cache
+/Users/macintosh/dotnet-core/CI-Demo/api/obj/Debug/netcoreapp2.1/api.csproj.CoreCompileInputs.cache
+/Users/macintosh/dotnet-core/CI-Demo/api/obj/Debug/netcoreapp2.1/api.RazorAssemblyInfo.cache
+/Users/macintosh/dotnet-core/CI-Demo/api/obj/Debug/netcoreapp2.1/api.RazorAssemblyInfo.cs
+/Users/macintosh/dotnet-core/CI-Demo/api/obj/Debug/netcoreapp2.1/api.AssemblyInfoInputs.cache
+/Users/macintosh/dotnet-core/CI-Demo/api/obj/Debug/netcoreapp2.1/api.AssemblyInfo.cs
+/Users/macintosh/dotnet-core/CI-Demo/api/obj/Debug/netcoreapp2.1/api.RazorTargetAssemblyInfo.cache
+/Users/macintosh/dotnet-core/CI-Demo/api/obj/Debug/netcoreapp2.1/api.dll
+/Users/macintosh/dotnet-core/CI-Demo/api/obj/Debug/netcoreapp2.1/api.pdb

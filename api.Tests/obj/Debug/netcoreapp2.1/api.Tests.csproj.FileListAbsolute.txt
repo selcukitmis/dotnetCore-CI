@@ -1,0 +1,14 @@
+/Users/macintosh/dotnet-core/CI-Demo/api.Tests/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/macintosh/dotnet-core/CI-Demo/api.Tests/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/macintosh/dotnet-core/CI-Demo/api.Tests/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/macintosh/dotnet-core/CI-Demo/api.Tests/bin/Debug/netcoreapp2.1/api.Tests.deps.json
+/Users/macintosh/dotnet-core/CI-Demo/api.Tests/bin/Debug/netcoreapp2.1/api.Tests.runtimeconfig.json
+/Users/macintosh/dotnet-core/CI-Demo/api.Tests/bin/Debug/netcoreapp2.1/api.Tests.runtimeconfig.dev.json
+/Users/macintosh/dotnet-core/CI-Demo/api.Tests/bin/Debug/netcoreapp2.1/api.Tests.dll
+/Users/macintosh/dotnet-core/CI-Demo/api.Tests/bin/Debug/netcoreapp2.1/api.Tests.pdb
+/Users/macintosh/dotnet-core/CI-Demo/api.Tests/obj/Debug/netcoreapp2.1/api.Tests.csprojAssemblyReference.cache
+/Users/macintosh/dotnet-core/CI-Demo/api.Tests/obj/Debug/netcoreapp2.1/api.Tests.csproj.CoreCompileInputs.cache
+/Users/macintosh/dotnet-core/CI-Demo/api.Tests/obj/Debug/netcoreapp2.1/api.Tests.AssemblyInfoInputs.cache
+/Users/macintosh/dotnet-core/CI-Demo/api.Tests/obj/Debug/netcoreapp2.1/api.Tests.AssemblyInfo.cs
+/Users/macintosh/dotnet-core/CI-Demo/api.Tests/obj/Debug/netcoreapp2.1/api.Tests.dll
+/Users/macintosh/dotnet-core/CI-Demo/api.Tests/obj/Debug/netcoreapp2.1/api.Tests.pdb
