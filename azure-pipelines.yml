@@ -10,6 +10,7 @@ variables:
   buildConfiguration: 'Release'
 
 steps:
-- script: dotnet build ./api/api.csproj --configuration $(buildConfiguration) 
+- script: | 
+          dotnet build ./api/api.csproj --configuration $(buildConfiguration) 
           dotnet test ./api.Tests/api.Tests.csproj
   displayName: 'dotnet build $(buildConfiguration)'
