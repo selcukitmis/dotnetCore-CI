@@ -10,7 +10,7 @@ namespace api.Tests
         public void TestMethod1()
         {
             var result = 1;
-            Assert.AreEqual(1,1);
+            Assert.AreEqual(1,2);
         }
     }
 }
